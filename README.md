@@ -46,6 +46,10 @@ Retrofit is a REST Client for Java and Android. It makes it relatively easy to r
 *KOIN
 Koin is a dependency injection framework that conforms to this need. It is a lightweight framework, easy to learn, and does not have much boilerplate code. Let's see how we can use this framework to manage dependencies in our Android applications
 
+ implementation "org.koin:koin-android:$koin_version"
+ implementation "org.koin:koin-android-scope:$koin_version"
+ implementation "org.koin:koin-android-viewmodel:$koin_version"
+
 ## Lifecycle and Viewmodel
 
 Lifecycle-aware components perform actions in response to a change in the lifecycle status of another component, such as activities and fragments. These components help you produce better-organized, and often lighter-weight code, that is easier to maintain.
