@@ -107,12 +107,12 @@ Use Git commands for clone code from the repository.
 Clone
 Use git clone command to clone repository
 ```
-https://github.com/Neha-Rajput/WeatherForecastApp.git
+https://github.com/Neha-Rajput/End-Clothing.git
 ```
 After successful cloning of project open the project in Android Studio.
 
 Android Studio -> File -> Open
-select file "Weather app" -> OK
+select file "End Clothing" -> OK
 
 Run Project 
 Android Studio -> Run -> Run "app"
