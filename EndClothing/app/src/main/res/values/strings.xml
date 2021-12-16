@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">End Clothing</string>
+    <string name="title">Title</string>
+    <string name="cost">cost</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
